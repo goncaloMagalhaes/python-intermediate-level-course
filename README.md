@@ -1,6 +1,6 @@
 # Python Intermediate Level Course
 
-This is a 4 sessions course (~8h) in Python and a variety of PSL features.
+This is a 4 sessions course (~8h) in Python and a variety of PSL features. It was given in Jan2022 to various IT professionals, mostly [Findmore Consulting](https://www.findmore.pt/) employees, at [Findmore Academy](https://academy.findmore.pt/).
 
 ## Prerequisites
 * Know Python basics
